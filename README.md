@@ -1,4 +1,4 @@
 
 - Java
-- GUI: JavaFX
+- cli -> GUI: JavaFX
 - DB: mysql
